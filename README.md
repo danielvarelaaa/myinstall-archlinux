@@ -1,0 +1,4 @@
+# myinstall-achlinux
+
+bfhbsvfdbabdkvbvbka
+

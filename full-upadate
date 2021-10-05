@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo "-atualizçãoes pacman..."
+sudo pacman -Syu
+
+echo "-atualizações AUR..."
+yay
+
+echo "-atualizações snap..."
+snap refresh
+
+echo "-atualuzações flatpak..."
+flatpak update
+
+echo "<reiniciar?(S/n)>"
+read r;
+if [ $r == "s" ];
+	then
+	 reboot
+fi
+

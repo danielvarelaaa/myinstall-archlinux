@@ -1,0 +1,10 @@
+#!/bin/bash
+
+pacman -Syu 
+
+pacman -S sudo xorg-server xorg-apps xf86-video-intel mesa vulkan-intel
+
+pacman -S gnome ntfs-3g gnome-software-packagekit-plugin flatpak git
+
+systemctl enable gdm 
+
