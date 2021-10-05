@@ -1,4 +1,3 @@
 # myinstall-achlinux
 
-bfhbsvfdbabdkvbvbka
-
+jdnvf
