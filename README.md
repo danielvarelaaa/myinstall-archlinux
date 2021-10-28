@@ -1,3 +1,3 @@
 # myinstall-achlinux
 
-jdnvf
+Scripts for installing Arch Linux with Gnome.
